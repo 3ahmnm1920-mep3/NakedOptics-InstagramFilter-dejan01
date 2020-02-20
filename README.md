@@ -12,10 +12,15 @@ Every glass is different in its texture. By tapping the glasses that is being us
 # TO DO
 
 --> Animation in Maya: Glasses separates into different parts 
+
 --> Spark AR: Import Animation and try to start the animation by tapping the glasses
+
 --> Texturing in Spark AR: As soon the parts are separated and out of the screen, the textures will change
+
 --> Partical System in Spark AR: Snowflakes falling down
+
 --> Background colour in Spark AR
+
 --> SFX for animation 
 
 
