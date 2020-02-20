@@ -2,18 +2,22 @@
 
 # Project Description
 
-# Visuals
+This Project is goingt to be an Instagram Glasses Filter which is made in Spark AR. It is made for all mobile devices that have Instagram installed.
 
 # Concept
 
-TO DO
---> Animations will be done in Autodesk Maya
---> Tracking and Partical Systems will be done in Spark AR
+It is a glasses filter (designed by the company "NakedOptics", 3D modelled by Mr. Gruber). There are three different glasses to choose. 
+Every glass is different in its texture. By tapping the glasses that is being used rigt now, you can switch between the three glasses. An animation will then start and the glasses will be separated into body, glass and band. Since the glasses are made for skiing, there will also be some falling snowflakes. This can be achieved by using a particle system. The system uses a picture of a snowflake and let's it for example fall from top to bottom. The background will be a light blue-ish colour.
 
-## Idea
+#TO DO
 
-The main idea behind this project is to create an Instagram filter. It is a glasses filter (designed by the company "NakedOptics", 3D modelled by Mr. Gruber). There are three different glasses to choose. 
-Every glass is different in its texture. By doing any gesture (details will follow next time) you can switch between the three glasses. There is also going to be a partical system (e.g. Snowflakes). 
+--> Animation in Maya: Glasses separates into different parts 
+--> Spark AR: Import Animation and try to start the animation by tapping the glasses
+--> Texturing in Spark AR: As soon the parts are separated and out of the screen, the textures will change
+--> Partical System in Spark AR: Snowflakes falling down
+--> Background colour in Spark AR
+--> SFX for animation 
+
 
 ## References
 
