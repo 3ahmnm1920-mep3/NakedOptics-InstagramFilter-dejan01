@@ -35,3 +35,9 @@ https://www.youtube.com/watch?v=LDbmH8pyjjY
 https://www.youtube.com/watch?v=_B0G1jIaxMA
 
 https://www.youtube.com/watch?v=mIt2fdjExy0
+
+How to switch between two objects:
+https://www.youtube.com/watch?v=G38CHTTKUxA
+
+How to add Delay:
+https://www.youtube.com/watch?v=SA7p4Xcu0RY
