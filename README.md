@@ -41,3 +41,6 @@ https://www.youtube.com/watch?v=G38CHTTKUxA
 
 How to add Delay:
 https://www.youtube.com/watch?v=SA7p4Xcu0RY
+
+Emitter:
+https://www.youtube.com/watch?v=TnWrJoPCfco
