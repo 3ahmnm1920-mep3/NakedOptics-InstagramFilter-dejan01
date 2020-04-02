@@ -2,33 +2,26 @@
 
 # Project Description
 
-This Project is goingt to be an Instagram Glasses Filter which is made in Spark AR. It is made for all mobile devices that have Instagram installed.
+This Project is goingt to be an Instagram Glasses Filter which is made in Spark AR. It is made for all mobile devices that have Instagram installed. It is a glasses filter (designed by the company "NakedOptics", 3D modelled by Mr. Gruber). There are two different glasses to choose. This Filter is primarly made for the NakedOptics brand in order to advertise some of their glasses on Instagram.
+Every glass is different in its texture. By tapping the screen, the glasses will change. An animation will immediately start and will separate the glasses into body, glass and band. What is more, a sound effect is being played during the animation.
+Since the glasses are made for skiing, there will also be some falling snowflakes. This can be achieved by using a particle system and a snowflake png. The system uses a picture of a snowflake and let's it for example fall from top to bottom.
 
-# Concept
 
-It is a glasses filter (designed by the company "NakedOptics", 3D modelled by Mr. Gruber). There are three different glasses to choose. 
-Every glass is different in its texture. By tapping the glasses that is being used rigt now, you can switch between the three glasses. An animation will then start and the glasses will be separated into body, glass and band. Since the glasses are made for skiing, there will also be some falling snowflakes. This can be achieved by using a particle system. The system uses a picture of a snowflake and let's it for example fall from top to bottom. The background will be a light blue-ish colour.
+# Software
+ 
+ Maya 2019, Spark AR v80.0.0.19.239, VSCode 1.430
+ 
+# External Resources
 
-# TO DO
-
---> Animation in Maya: Glasses separates into different parts 
-
---> Spark AR: Import Animation and try to start the animation by tapping the glasses
-
---> Texturing in Spark AR: As soon the parts are separated and out of the screen, the textures will change
-
---> Partical System in Spark AR: Snowflakes falling down
-
---> Background colour in Spark AR
-
---> SFX for animation 
-
---> ##Spark ar project will follow!
-
+3D Object: Hr. Gruber (In Visual Folder)
+3D Object wiht correct UV Layout: Hr. Gruber 
+Band Texture NakedOptics: Hr. Gruber - Uv Layout (NewGlasses/Textures)
+Snwoflake png: Google Images
+Snowy Forest HDR: https://www.textures.com/browse/hdr-spheres/114552
 
 ## References
 
-How to create an (Instagram) Filter:
+*How to create an (Instagram) Filter:
 
 https://www.youtube.com/watch?v=LDbmH8pyjjY
 
@@ -36,11 +29,23 @@ https://www.youtube.com/watch?v=_B0G1jIaxMA
 
 https://www.youtube.com/watch?v=mIt2fdjExy0
 
-How to switch between two objects:
+*How to switch between two objects:
+
 https://www.youtube.com/watch?v=G38CHTTKUxA
 
-How to add Delay:
+*How to add Delay:
+
 https://www.youtube.com/watch?v=SA7p4Xcu0RY
 
-Emitter:
+*Hot to create an emitter:
+
 https://www.youtube.com/watch?v=TnWrJoPCfco
+
+*How to create a 2D Text:
+
+https://sparkar.facebook.com/ar-studio/learn/documentation/docs/text/
+
+*How to add audio file 
+
+https://sparkar.facebook.com/ar-studio/learn/documentation/building-your-scene/audio/the-speaker/
+https://sparkar.facebook.com/ar-studio/learn/documentation/docs/visual-programming/audio-patches-examples
