@@ -14,9 +14,13 @@ Since the glasses are made for skiing, there will also be some falling snowflake
 # External Resources
 
 3D Object: Hr. Gruber (In Visual Folder)
+
 3D Object wiht correct UV Layout: Hr. Gruber 
+
 Band Texture NakedOptics: Hr. Gruber - Uv Layout (NewGlasses/Textures)
+
 Snwoflake png: Google Images
+
 Snowy Forest HDR: https://www.textures.com/browse/hdr-spheres/114552
 
 ## References
