@@ -6,7 +6,7 @@ This Project is goingt to be an Instagram Glasses Filter which is made in Spark 
 Every glass is different in its texture. By tapping the screen, the glasses will change. An animation will immediately start and will separate the glasses into body, glass and band. What is more, a sound effect is being played during the animation.
 Since the glasses are made for skiing, there will also be some falling snowflakes. This can be achieved by using a particle system and a snowflake png. The system uses a picture of a snowflake and let's it for example fall from top to bottom.
 
-<<<<<<< HEAD
+
 # Visuals
 
 <img src = "./Visual/Visual_Animation.mov" width = 500>
