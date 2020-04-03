@@ -31,7 +31,6 @@ Band Texture NakedOptics: Hr. Gruber - Uv Layout (NewGlasses/Textures)
 
 Snwoflake png: Google Images
 
-=======
 
 # Software
  
@@ -47,7 +46,6 @@ Band Texture NakedOptics: Hr. Gruber - Uv Layout (NewGlasses/Textures)
 
 Snwoflake png: Google Images
 
->>>>>>> c2a475cfdd4dbd0036e941e6e7a6341f46200792
 Snowy Forest HDR: https://www.textures.com/browse/hdr-spheres/114552
 
 ## References
