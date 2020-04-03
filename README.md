@@ -6,6 +6,7 @@ This Project is goingt to be an Instagram Glasses Filter which is made in Spark 
 Every glass is different in its texture. By tapping the screen, the glasses will change. An animation will immediately start and will separate the glasses into body, glass and band. What is more, a sound effect is being played during the animation.
 Since the glasses are made for skiing, there will also be some falling snowflakes. This can be achieved by using a particle system and a snowflake png. The system uses a picture of a snowflake and let's it for example fall from top to bottom.
 
+<<<<<<< HEAD
 # Visuals
 
 <img src = "./Visual/Visual_Animation.mov" width = 500>
@@ -30,6 +31,23 @@ Band Texture NakedOptics: Hr. Gruber - Uv Layout (NewGlasses/Textures)
 
 Snwoflake png: Google Images
 
+=======
+
+# Software
+ 
+ Maya 2019, Spark AR v80.0.0.19.239, VSCode 1.430
+ 
+# External Resources
+
+3D Object: Hr. Gruber (In Visual Folder)
+
+3D Object wiht correct UV Layout: Hr. Gruber 
+
+Band Texture NakedOptics: Hr. Gruber - Uv Layout (NewGlasses/Textures)
+
+Snwoflake png: Google Images
+
+>>>>>>> c2a475cfdd4dbd0036e941e6e7a6341f46200792
 Snowy Forest HDR: https://www.textures.com/browse/hdr-spheres/114552
 
 ## References
